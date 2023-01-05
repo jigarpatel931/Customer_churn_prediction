@@ -1,2 +1,2 @@
 # Customer_churn_prediction using Logistic regression model.
-https://github.com/jigarpatel931/Customer_churn_prediction/blob/447b55885e315fc2700486fad9426ceb19959f02/Rplot01.png
+![Rplot01](https://user-images.githubusercontent.com/50954720/210896692-042c9621-3125-4448-89c0-eeb42e8653e1.png)

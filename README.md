@@ -9,3 +9,9 @@
 
 #For cutoff ~0.69 
 model has ~80% accuracy.
+
+Dashboard:
+https://public.tableau.com/app/profile/jigarpatel136/viz/CustomerChurnDashboard_16632552040800/Dashboard4
+
+
+![image](https://user-images.githubusercontent.com/50954720/210901052-06d8d21a-65e0-475e-84a9-285b09cce248.png)
